@@ -1,6 +1,6 @@
-[![Inkling 2 Mini: 5.4B Active Vision AI Ties Opus 5.5 Locally on Your Laptop!](https://img.youtube.com/vi/IW4a2lPjNak/maxresdefault.jpg)](https://youtu.be/IW4a2lPjNak)
+[![Inkling 2 Mini: 5.4B Active Vision AI Beats Qwen 3.8 Locally on Your Laptop!](https://img.youtube.com/vi/IW4a2lPjNak/maxresdefault.jpg)](https://youtu.be/IW4a2lPjNak)
 
-# Inkling 2 Mini: 5.4B Active Vision AI Ties Opus 5.5 Locally on Your Laptop!
+# Inkling 2 Mini: 5.4B Active Vision AI Beats Qwen 3.8 Locally on Your Laptop!
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Model Size](https://img.shields.io/badge/Total%20Params-26.4B%20(5.4B%20Active)-orange.svg)](https://huggingface.co/thinkingmachines/Inkling-2-Mini)
